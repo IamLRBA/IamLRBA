@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @IamLRBA
-- 🌱 I’m currently learning computer programming.
-- 💞️ I’m looking to collaborate on various computer programs such as HTML,CSS or JavaScript
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a fun of: Fashion, Sports, Aesthetics, Canines, Architecture, Automobiles,Music and Poetry, Film and Comics
+Hello, I’m @IamLRBA
+
+As a budding programmer, I am currently honing my skills in computer programming with a keen interest in web development. I am passionate about collaborating on innovative projects that utilize HTML, CSS, and JavaScript to bring creative ideas to life.
+
+    Learning Path: Actively expanding my knowledge in various programming languages and frameworks.
+    Collaboration: Open to working with others on exciting projects and sharing ideas.
+    Interests: My passions extend beyond coding to include fashion, sports, aesthetics, architecture, automobiles, music, poetry, film, and comics.
+
+Feel free to connect with me to discuss projects or potential collaborations!
 
 <!---
 IamLRBA/IamLRBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
