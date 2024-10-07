@@ -12,3 +12,5 @@ Feel free to connect with me to discuss projects or potential collaborations!
 IamLRBA/IamLRBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Uploading Aku Home_1 - Photo.jpg…]()
+![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
