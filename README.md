@@ -1,4 +1,4 @@
-Hello, I’m @IamLRBA
+Hello, @IamLRBA
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
 
 As a budding programmer, I am currently honing my skills in computer programming with a keen interest in web development. I am passionate about collaborating on innovative projects that utilize HTML, CSS, and JavaScript to bring creative ideas to life.
