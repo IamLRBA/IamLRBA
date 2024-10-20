@@ -9,7 +9,12 @@ As a budding programmer, I am currently honing my skills in computer programming
 
 **Interests**: My passions extend beyond coding to include fashion, sports, aesthetics, architecture, automobiles, music, poetry, film, and comics.
 
-Feel free to connect with me to discuss projects or potential collaborations!
+**Feel free to connect with me to discuss projects or potential collaborations!**
+
+**N.B**; I'm a `Marvel` Geek and Ultimate `Ben 10` fan
+- **Personal Marvel Characters Line-up**; Iron Man, Thor, Spiderman, Black Panther and Woverine.
+- **Personal Ben 10 Aliens Line-up**; Ultimate Echo Echo, FeedBack, SwampFire, BigChill, CannonBolt, SpiderMonkey, Armordrillo, Crashhopper, NRG, Kickin' Hawk and GutRot.
+- **Personal Ben 10 Powerhouse Aliens**; Alien x, Atomix and ClockWork.   
 
 <!---
 IamLRBA/IamLRBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
