@@ -13,9 +13,9 @@ As a budding programmer, I am currently honing my skills in computer programming
 
 **N.B**; I'm a `Marvel` Geek, Ultimate `Ben 10` & `Transformers` fan
 - **Personal Marvel Characters Line-up**; Iron Man, Thor, Spiderman, Black Panther, Hulk & Wolverine.
-- **Personal Marvel Powershouse Characters**: Doctor Strange, Scarlet Witch, Loki
+- **Personal Marvel Powershouse Characters**: Doctor Strange, Scarlet Witch & Loki
 - **Personal Ben 10 Aliens Line-up**; Ultimate Echo Echo, FeedBack, SwampFire, BigChill, CannonBolt, SpiderMonkey, XLR8, Armordrillo, Crashhopper, NRG, Kickin' Hawk & GutRot.
-- **Personal Ben 10 Powerhouse Aliens**; Alien x, Atomix, ClockWork and Gravattack.
+- **Personal Ben 10 Powerhouse Aliens**; Alien x, Atomix, ClockWork & Gravattack.
 - **Personal Transformers Line-up**; BumbleBee, Mirage, IronHide, CrossHairs, HotRod & SideSwipe.  
 
 <!---
