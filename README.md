@@ -16,7 +16,7 @@ A budding programmer currently honing my skills in computer programming with a k
 - **Personal Marvel Powershouse Characters**: Doctor Strange, Scarlet Witch & Loki
 - **Personal Ben 10 Aliens Line-up**; Ultimate Echo Echo, FeedBack, SwampFire, BigChill, CannonBolt, SpiderMonkey, XLR8, Armordrillo, Crashhopper, NRG, Kickin' Hawk & GutRot.
 - **Personal Ben 10 Powerhouse Aliens**; Alien x, Atomix, ClockWork & Gravattack.
-- **Personal Transformers Line-up**; BumbleBee, Mirage, IronHide, CrossHairs, HotRod & SideSwipe.  
+- **Personal Transformers Line-up**; BumbleBee, Mirage, IronHide, CrossHairs, HotRod & SideSwipe.
 
 <!---
 IamLRBA/IamLRBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
