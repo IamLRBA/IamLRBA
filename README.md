@@ -5,7 +5,7 @@ A budding programmer currently honing my skills in computer programming with a k
 
 **Learning Path**: Actively expanding my knowledge in various programming languages and frameworks.
 
-**Collaborations**: Open to working with others on exciting projects and sharing ideas.
+**Collaborations**: I am open to working with others on exciting projects and sharing ideas.
 
 **Interests**: My passions extend beyond coding to include fashion, sports, aesthetics, architecture, automobiles, music, poetry, film, and comics.
 
