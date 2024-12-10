@@ -1,7 +1,6 @@
 Hello, **@IamLRBA**
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
-
-I am a budding programmer currently honing my skills in computer programming with a keen interest in web development. I am passionate about collaborating on innovative projects that utilize various languages and frameworks; to bring creative ideas to life.
+am a budding programmer currently honing my skills in computer programming with a keen interest in web development. I am passionate about collaborating on innovative projects that utilize various languages and frameworks; to bring creative ideas to life.
 
 **Learning Path**: Actively expanding my knowledge in various programming languages and frameworks.
 
