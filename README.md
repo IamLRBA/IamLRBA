@@ -4,7 +4,7 @@ I am a budding programmer keenly interested in various development fields curren
 
 **Learning Path**: Actively expanding my knowledge in various programming languages and frameworks.
 
-**Collaborations**: I am open to working with others on exciting projects and sharing ideas.
+**Collaborations**: Open to working with others on exciting projects and sharing ideas.
 
 **Interests**: My passions extend beyond coding to include fashion, sports, aesthetics, architecture, automobiles, music, poetry, film, and comics.
 
