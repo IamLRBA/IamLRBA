@@ -8,7 +8,7 @@ I am a budding programmer keenly interested in various development fields curren
 
 **Feel free to connect with me to discuss projects or potentially collaborate!**
 
-**N.B** - I am a `Marvel` Geek, Ultimate `Ben 10` & `Transformers` fan
+**N.B** - I am a `Marvel` Geek, Ultimate `Ben 10`, `Transformers` & `Anime` fan
 - **GOAT Marvel Characters Line-up**: Iron Man, Thor, Spiderman, Black Panther, Hulk & Wolverine.
 - **GOAT Marvel Powershouse Characters**: Doctor Strange, Scarlet Witch & Loki
 - **GOAT Ben 10 Aliens Line-up**: Ultimate Echo Echo, FeedBack, SwampFire, BigChill, CannonBolt, SpiderMonkey, XLR8, Armordrillo, Crashhopper, NRG, Kickin' Hawk & GutRot.
