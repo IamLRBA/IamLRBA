@@ -1,4 +1,4 @@
-Hello, **@IamLRBA**
+Hi There!, **@IamLRBA**
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
 A budding programmer keenly interested and honing my skills in various development fields. I am passionate about collaborations and expanding my knowledge on innovative projects that utilize various programming languages and frameworks to bring creative ideas to life.
 
