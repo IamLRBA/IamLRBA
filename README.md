@@ -10,7 +10,7 @@ I am a budding programmer keenly interested in various development fields I am h
 
 **N.B** - I am a super `Marvel`, `Ben 10`, `Transformers` & `Anime` fan
 - **GOAT Marvel Characters Line-up**: Iron Man, Thor, Spiderman, Black Panther, Hulk & Wolverine.
-- **GOAT Marvel Powershouse Characters**: Doctor Strange, Scarlet Witch & Loki (god of stories)
+- **GOAT Marvel Powershouse Characters**: Doctor Strange (Living Universe), Scarlet Witch & Loki (god of stories)
 - **GOAT Ben 10 Aliens Line-up**: Ultimate Echo Echo, FeedBack, SwampFire, BigChill, CannonBolt, SpiderMonkey, XLR8, Armordrillo, Crashhopper, NRG, Kickin' Hawk & GutRot.
 - **GOAT Ben 10 Powerhouse Aliens**: Alien x, Atomix, ClockWork & Gravattack.
 - **GOAT Transformers Line-up**: BumbleBee, Mirage, IronHide, CrossHairs, HotRod & SideSwipe.
