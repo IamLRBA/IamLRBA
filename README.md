@@ -4,7 +4,7 @@ I am a budding programmer keenly interested in various development fields I am h
 
 **Collaborations**: Open to working with others on exciting projects and sharing ideas.
 
-**Interests**: My passions extend beyond coding to include fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
+**Interests**: My passions extend beyond coding to other field such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
 **Feel free to connect with me on my socials (Links on my profile) to discuss projects or potential collaborations!**
 
