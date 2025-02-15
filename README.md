@@ -16,7 +16,8 @@ I am a budding programmer keenly interested in various development fields I am h
 - **GOAT Transformers Line-Up**: BumbleBee, Mirage, IronHide, CrossHairs, HotRod & SideSwipe.
 - **GOAT Anime Shows**: Demon Slayer, Jujutsu Kaisen, Blue Lock, Death Note, Attack on Titans & Haikyuu.
 - **GOAT TV Shows**: Game of Thrones, Prison Break, Breaking Bad, The Walking Dead (Upto Season 8), Peeky Blinders, BlackList & Sons of Anarchy.
-- **GOAT Essentials**: Food, Drinks, Laptop, Phone, Internet Router, Toileteries, Outfit (Footwear, Jewelery, Headgear, Belt & Underwear), Game console
+- **GOAT Essentials**: Food, Drinks, Laptop, Phone, Internet Router, Toileteries, Outfit (Footwear, Jewelery, Headgear, Belt & Underwear), Game console.
+- **GOAT Sneakers**: J1s, AF1s, J6 "Cactus Jack Paisely Print", Dr Martens.
   
 Let's change world one code at a time!
   
