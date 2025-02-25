@@ -4,7 +4,7 @@ I am a budding programmer keenly interested in various development fields I am h
 
 **Interests**: My passions extend beyond coding to other field such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
-**Feel free to connect with me on my socials (Links on my profile) to discuss projects or potential collaborations!**
+**Feel free to connect with me on my socials (Links on my profile) to discuss projects and potential collaborations!**
 
 **N.B** - I am a turnt **Marvel**, **Ben 10**, **Transformers** & **Anime** geek
 - **GOAT Marvel Characters Line-Up**: Iron Man, Thor, Spiderman, Black Panther, Hulk & Wolverine.
