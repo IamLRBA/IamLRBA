@@ -2,7 +2,7 @@ Hello Mate!, **@IamLRBA**
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
 I am a budding, autodedact programmer keenly interested and honing my skills in various software development fields. I am passionate about collaborations and expanding my knowledge on innovative projects that utilize various programming languages, frameworks and tools to bring creative ideas to life.
 
-**Interests**: My passions extend beyond coding to other field such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
+**Interests**: My hobbies extend beyond coding to other field such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
 **Feel free to connect with me on my socials (Links on my profile) to discuss projects and potential collaborations!**
 
