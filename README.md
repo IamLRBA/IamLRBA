@@ -15,7 +15,7 @@ I am a budding, autodidact programmer keenly interested and honing my skills in 
 - **GOAT Ben 10 Powerhouse Aliens**: Alien x, Atomix, ClockWork & Gravattack.
 - **GOAT Transformers Line-Up**: BumbleBee, Mirage, IronHide, CrossHairs, HotRod & SideSwipe.
 - **GOAT Anime Shows**: Demon Slayer, Jujutsu Kaisen, Blue Lock, Death Note, Attack on Titans & Haikyuu.
-- **GOAT TV Shows**: Game of Thrones, Prison Break, Breaking Bad, The Walking Dead (Upto Season 8), Peeky Blinders, BlackList & Power.
+- **GOAT TV Shows**: Game of Thrones, Prison Break, Breaking Bad, The Walking Dead (Upto Season 8), Peeky Blinders, BlackList & Power (Original).
 - **GOAT Essentials**: Food (Edibles and Drinks), Electronics (Laptop, Phone, Internet Router, Tab, Ear&Head Pieces, Chargers), Toiletries, Outfit (Footwear, Jewelery, Headgear, Belt, socks & Underwear), Backpack, Game Console.
 - **GOAT Sneakers**: J1s "Chicago OG", AF1s "Allwhite", Adidas Yeezy Boost 700 "Waverunner", J6 "Cactus Jack, Paisely Print".
 - **GOAT Rappers**: J.Cole, Eminem, Kendrick Lamar, 2Pac Shakur, Nipsey Hussel.
