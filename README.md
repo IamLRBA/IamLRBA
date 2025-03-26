@@ -1,6 +1,9 @@
 Hello Developers!, **@IamLRBA**
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
-I am a budding, autodidact programmer keenly interested, determined and honing my skills in various software development fields. I am passionate about collaborations and knowledge expansion (Growth): on innovative & creative projects that utilize various programming languages, frameworks and tools to bring such ideas to life.
+I am a self-taught programmer with a deep passion for software development. I am highly motivated, continuously honing my skills across various programming languages, frameworks, and tools. I thrive on collaboration and enjoy working on innovative projects that push the boundaries of creativity and technology.
+
+Embracing self-learning, I discovered the world of Open Source, where I have been actively contributing and growing as a developer. My journey has been driven by a strong desire to expand my knowledge, solve real-world problems, and make meaningful contributions to the tech community.
+
 
 **Interests**: My hobbies extend beyond coding to other field such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
