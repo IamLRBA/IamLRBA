@@ -5,7 +5,7 @@ I am an autodidact programmer with a deep passion for software development. I am
 Embracing self-learning, I discovered the world of Open Source, where I have been actively contributing and growing as a developer. My journey has been driven by a strong desire to expand my knowledge, solve real-world problems, and make meaningful contributions to the tech community.
 
 
-**Interests**: My hobbies extend beyond coding to other field such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
+**Interests**: My hobbies extend beyond coding to other fields such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
 **Feel free to connect with me on my socials (Links on my profile) to discuss projects and potential collaborations!**
 
