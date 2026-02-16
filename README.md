@@ -2,7 +2,7 @@ Hello Developers!, **@IamLRBA**
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
 I am an autodidact programmer with a deep passion for software development. I am highly motivated, continuously honing my skills across various programming languages, frameworks, and tools. I thrive on collaboration and enjoy working on innovative projects that push the boundaries of creativity and technology.
 
-While embracing self-learning, I discovered the world of Open Source, where I have been actively contributing and growing as a developer. My journey has been driven by my strong desire to expand my knowledge, solve real-world problems, and make meaningful contributions to the tech community.
+While embracing self-learning, I discovered the world of Open Source, where I have been actively contributing and growing as a developer. My journey has been driven by my strong desire to expand my knowledge, solve real-world problems, and make meaningful contributions to the tech.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamLRBA&show_icons=true&theme=highcontrast)
 
