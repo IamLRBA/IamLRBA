@@ -6,7 +6,7 @@ While embracing self-learning in development, I discovered the world of Open Sou
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamLRBA&show_icons=true&theme=highcontrast)
 
-**Interests**: My hobbies extend beyond just coding to other fields such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
+**Interests**: My hobbies extend beyond just coding to other fields such as fashion/style, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
 **Feel free to contact me on any of my socials (Links on my profile) to discuss potential collaborations!**
 
