@@ -8,7 +8,7 @@ While embracing self-learning in development, I discovered Open Source, where I 
 
 **Interests**: My hobbies extend beyond just coding to other fields such as fashion/style, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
-**Feel free to contact me on any of my socials (Links on my profile) to discuss any potential collaborations!**
+**Feel free to contact me on any of my socials (Links on my profile) to discuss any collaborations!**
 
 **N.B** - I am a super **Marvel**, **Ben 10**, **Transformers** & **Anime** geek.
 
