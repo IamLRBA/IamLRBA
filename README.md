@@ -1,3 +1,4 @@
+
 Hello Developers, **LRBA** Here!
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
 I am an autodidact programmer continuously honing my skills across various programming languages, frameworks, and tools. I thrive on collaboration and working on innovative projects that push the boundaries of creativity and technology.
@@ -8,7 +9,7 @@ While embracing self-learning in development, I discovered Open Source, where I 
 
 **Interests**: My hobbies extend beyond just coding to other fields - fashion/style, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
-**Feel free to contact me on any of my socials (Links on my profile) to discuss any collaborations!**
+**Feel free to contact me on any of my socials (Links on my profile) to discuss collaborations!**
 
 **N.B** - I am a super **Marvel**, **Ben 10**, **Transformers** & **Anime** geek.
 
