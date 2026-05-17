@@ -11,7 +11,7 @@ While embracing self-learning in development, I discovered Open Source, where I 
 
 **Feel free to contact me on any of my socials (Links on my profile) to discuss collaborations!**
 
-**N.B** - I am a super **Marvel**, **Ben 10**, **Transformers** & **Anime** geek.
+**N.B** - I am a **Marvel**, **Ben 10**, **Transformers** & **Anime** geek.
 
 **TOP G.O.A.T LISTS** 
 - **GOAT Marvel Characters Line-Up**: Iron Man, Thor, Spiderman, Black Panther, Hulk & Wolverine.
