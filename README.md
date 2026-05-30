@@ -25,7 +25,7 @@ While embracing self-learning in development, I discovered OSS where I have been
 - **GOAT Sneakers**: J1s "Chicago OG", AF1s "Allwhite", Adidas Yeezy Boost 700 "Waverunner", J6 "Cactus Jack, Paisely Print".
 - **GOAT Rappers**: J.Cole, Eminem, Kendrick Lamar, 2Pac Shakur, Nipsey Hussel.
   
-Let's change the world one code at a time!
+Let's change the world a code at a time!
   
 
 <!---
