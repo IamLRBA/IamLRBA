@@ -21,7 +21,7 @@ Whilst embracing self-learning in development, I stumbled across Open Source Sof
 - **GOAT Transformers Line-Up**: BumbleBee, Mirage, IronHide, CrossHairs, HotRod & SideSwipe.
 - **GOAT Anime Shows**: Jujutsu Kaisen, Demon Slayer, Attack on Titans, Blue Lock, Solo Levelling, Gachiakuta & Chainsawman.
 - **GOAT TV Shows**: Game of Thrones, Prison Break, Breaking Bad, The Walking Dead (Upto Season 8), The Sopranos, Peeky Blinders, BlackList, Power (Original) & Mr Robot.
-- **GOAT Essentials**: Food, Electronics, Toiletries, Outfit, Backpack, Game Console.
+- **GOAT Essentials**: Food, Electronics, Toiletries, Outfits, Game Console.
 - **GOAT Sneakers**: J1s "Chicago OG", AF1s "Allwhite", Adidas Yeezy Boost 700 "Waverunner", J6 "Cactus Jack, Paisely Print".
 - **GOAT Rappers**: J.Cole, Eminem, Kendrick Lamar & Ye.
   
