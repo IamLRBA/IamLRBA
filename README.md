@@ -2,7 +2,7 @@
 Hi there, **LRBA** Here!
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
 I am an autodidact programmer continuously honing my skills across various programming languages, frameworks, and tools. 
-I thrive on collaborations and working on innovative projects that push the boundaries of creativity and technology.
+I thrive on collaborations and working on innovative projects that push the boundaries of creativity &technology.
 
 Whilst embracing self-learning in development, I stumbled across Open Source Software where I have been actively contributing and growing. My journey has been driven by a strong desire to expand my knowledge, solve real-world problems, and make meaningful contributions to the tech community.
 
