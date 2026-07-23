@@ -4,7 +4,7 @@ Hi there, **LRBA** Here!
 I am an autodidact programmer continuously honing my skills across various programming languages, frameworks, and tools. 
 I thrive on collaborations and working on innovative projects that push the boundaries of creativity &technology.
 
-Whilst embracing self-learning in development, I stumbled across Open Source Software where I have been actively contributing and growing. My journey has been driven by a strong knowledge-expansion desire, solve real-world problems, and make meaningful contributions to the tech community.
+Whilst embracing self-learning in development, I stumbled across Open Source Software where I have been actively contributing and growing. My journey has been driven by a strong knowledge-expansion desire, solving real-world problems, and make meaningful contributions to the tech community.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamLRBA&show_icons=true&theme=highcontrast)
 
