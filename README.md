@@ -26,7 +26,7 @@ Whilst embracing self-learning in development, I stumbled across Open Source Sof
 - **GOAT Sneakers**: J1s "Chicago OG", AF1s "Allwhite", Adidas Yeezy Boost 700 "Waverunner", J6 "Cactus Jack - Paisely Print".
 - **GOAT Rappers**: J.Cole, Eminem, Kendrick Lamar & Ye.
   
-Let's change the world a code at a time!
+Let's change the world... a code at a time!
   
 
 <!---
