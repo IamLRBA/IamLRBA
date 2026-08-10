@@ -10,8 +10,6 @@ I thrive on collaborations and working on innovative projects that push the boun
 
 **Interests**: My hobbies extend beyond just coding, to other fields such as fashion, sports, aesthetics, architecture, automobiles, music, poetry, film & comics.
 
-*Feel free to connect with me on any of my socials* (Links on my profile).
-
 **N.B:** I am a hardcore **Marvel**, **Ben 10**, **Transformers** & **Anime** geek/nerd.
 
 **TOP G.O.A.T LISTS** 
