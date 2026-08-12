@@ -18,7 +18,7 @@ I thrive on collaborations and working on innovative projects that push the boun
 - **GOAT Ben 10 Aliens Line-Up**: Ultimate Echo Echo, FeedBack, SwampFire, BigChill, CannonBolt, SpiderMonkey, XLR8, Armordrillo, Crashhopper, NRG, Kickin' Hawk & GutRot.
 - **GOAT Ben 10 Powerhouse Aliens**: Alien x, Atomix, ClockWork & Gravattack.
 - **GOAT Transformers Line-Up**: BumbleBee, Mirage, IronHide, CrossHairs, HotRod & SideSwipe.
-- **GOAT Anime Shows**: Jujutsu Kaisen, Demon Slayer, Attack on Titans, Blue Lock, Solo Levelling, Gachiakuta & Chainsawman.
+- **GOAT Anime Shows**: Jujutsu Kaisen, Attack on Titans, Demon Slayer, Blue Lock, Solo Levelling, Gachiakuta & Chainsawman.
 - **GOAT TV Shows**: Game of Thrones, Prison Break, Breaking Bad, The Walking Dead (Upto Season 8), The Sopranos, Peeky Blinders, BlackList, Power (Original) & Mr Robot.
 - **GOAT Essentials**: Food, Electronics, Toiletries, Outfits, Game Console.
 - **GOAT Sneakers**: J1s "Chicago OG", Nike AF1's "Allwhite", Adidas Yeezy Boost 700 "Waverunner", J6 "Cactus Jack - Paisely Print".
