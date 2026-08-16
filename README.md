@@ -2,7 +2,7 @@ Hello there,
 ![4](https://github.com/user-attachments/assets/e3bc621b-1e70-46ee-ad74-48840fb90541)
 I am Jerry, an autodidact programmer continuously honing my skills across various programming languages, frameworks, and tools. 
 
-I stumbled across Open Source Software whilst embracing self-learning in development, where I have been actively contributing and growing. 
+I stumbled across Open Source Software whilst embracing self-learning in development, and here I have been actively contributing and growing. 
 My journey has been driven by a strong knowledge-expansion, solving real-world problems, and making meaningful contributions to the tech community desire.
 I thrive on collaborations and working on innovative projects that push the boundaries of creativity &technology.
 
