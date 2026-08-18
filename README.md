@@ -24,7 +24,7 @@ I thrive on collaborations and working on innovative projects that push the boun
 - **GOAT Sneakers**: J1s "Chicago OG", Nike AF1's "Allwhite", Adidas Yeezy Boost 700 "Waverunner", J6 "Cactus Jack - Paisely Print".
 - **GOAT Rappers**: J.Cole, Eminem, Kendrick Lamar & Ye.
   
-Let's change the world... a line of code at a time!
+Let's change this world... a line of code at a time!
   
 
 <!---
